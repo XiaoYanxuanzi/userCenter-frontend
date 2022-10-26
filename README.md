@@ -15,3 +15,15 @@ npm install
 ```bash
 yarn
 ```
+
+##项目启动
+
+```bash
+npm start
+```
+
+或
+
+```bash
+npm run dev
+```
